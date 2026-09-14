@@ -1,2 +1,26 @@
-Last updated: 2026-09-14 23:34:22 WIB
-Last updated: 2026-09-15 02:14:27 WIB
+# spring-interceptor
+
+
+
+## 📋 Overview
+
+This repository contains **28 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-15 02:16:17 WIB*
